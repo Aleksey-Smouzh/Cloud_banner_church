@@ -1,0 +1,22 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Bad Script', cursive;
+    color: black;
+}
+
+.banner
+{
+position: relative;
+width: 100%;
+height: 100vh;
+background-image: url(../img/test1.svg);
+background-size: cover;
+background-position: bottom;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
